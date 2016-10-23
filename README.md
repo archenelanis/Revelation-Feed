@@ -1,2 +1,2 @@
 # Revelation-Feed
-Under Experimentation
+Everything that's new about Revelation.
