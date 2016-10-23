@@ -1,2 +1,2 @@
 # Revelation-Feed
-Everything that's new about Revelation.
+Everything that's new about Revelation MMO.
